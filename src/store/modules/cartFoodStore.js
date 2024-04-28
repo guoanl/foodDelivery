@@ -9,21 +9,21 @@ const foodsStore = createSlice({
             "id":1,
             "image":"https://images.pexels.com/photos/793765/pexels-photo-793765.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
             "name":"Pasta",
-            "description":"this is Chips, its very delicious",
+            "description":"this is Pasta, its very delicious",
             "price":14.95
         },
         {
             "id":2,
             "image":"https://images.pexels.com/photos/7426867/pexels-photo-7426867.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
             "name":"Rice",
-            "description":"this is Chips, its very delicious",
+            "description":"this is Rice, its very delicious",
             "price":22.95
         },
         {
             "id":3,
             "image":"https://images.pexels.com/photos/7627422/pexels-photo-7627422.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
             "name":"Steak",
-            "description":"this is Chips, its very delicious",
+            "description":"this is Steak, its very delicious",
             "price":34.55
         },
         {

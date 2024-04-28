@@ -71,17 +71,6 @@ const FoodCategory = () => {
                     <KeyboardArrowDownIcon />
                 </a>
             </div>
-            {/* <ul className='flex *:w-[70px] *:h-[115px] *:bg-yellow-300 *:rounded-t-full *:rounded-b-full *:p-2 justify-between mt-12 *:text-[12px] *:font-bold'>
-      {data.foodTabs.map((item,index)=>{return <li key={index}>
-        <a className='flex flex-col justify-between items-center'>
-          <div className='w-[50px] h-[50px] bg-white rounded-full translate-y-1 flex justify-center items-center mb-3'>
-          <FastfoodIcon/>
-          </div>
-          <span>{item}</span>
-        </a>
-      </li>
-    })}
-    </ul> */}
         </div>
     )
 }
